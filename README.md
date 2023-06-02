@@ -9,8 +9,9 @@ Navigate to the prometheus-grafana folder.
 # Step 2
 
 Run the following command to start the containers in the background: 
-Copy code
+
 docker-compose up -d
+
 Once the containers are up and running, you can access Prometheus and Grafana locally.
 
 #  Step 3 
