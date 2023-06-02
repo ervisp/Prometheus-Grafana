@@ -6,12 +6,13 @@ Setting up Prometheus and Grafana with docker-compose
 Clone the repository: https://github.com/ervisp/Prometheus-Grafana
 Navigate to the prometheus-grafana folder.
 
-Run the following command to start the containers in the background:
-#2 Step 
+# Step 2
+
+Run the following command to start the containers in the background: 
 Copy code
 docker-compose up -d
-
 Once the containers are up and running, you can access Prometheus and Grafana locally.
+
 #  Step 3 
 Prometheus is accessible at http://localhost:9090.
 Grafana is accessible at http://localhost:3000.
