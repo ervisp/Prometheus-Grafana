@@ -1,3 +1,7 @@
+![image](https://github.com/ervisp/Prometheus-Grafana/assets/105393897/b19fb55f-310f-462a-a6bb-6cb8ad9f2ed5)
+
+
+
 #### Prometheus-Grafana #####
 
 Setting up Prometheus and Grafana with docker-compose
